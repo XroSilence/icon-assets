@@ -1,2 +1,1 @@
-# email-assets
- custom wind icon
+## This repository contains a growing collection of unique, open-source icons. Additions are welcome, but please don't overwrite existing icons. If you'd like to change something, make a copy of the icon, edit it, and then submit your version. This repository is intended to serve as a mass collection of original source files containing the icons submitted. All modifications must be made from the original source files, and any new submissions must not be identical to an existing icon within reason.
